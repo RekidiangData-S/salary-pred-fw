@@ -1,2 +1,1 @@
-# salary-pred-fw
-Predict Salary
+# Heroku-Demo
